@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import "../styles/currently.scss";
+import React from "react";
 
 const ListeningTo = () => {
   useEffect(() => {
