@@ -42,7 +42,7 @@ export const works: WorkListItem[] = [
   },
   {
     title: "d.selfhood",
-    description: "publication on digital selhood",
+    description: "publication on digital selfhood",
     blurb: "publication",
     year: "2022",
     category: "print",
