@@ -53,7 +53,9 @@ const WorkTable = () => {
           Thanks for helping me clear the table.
         </p>
         {images.map((imageData, index) => {
-          // 🙏 forgive me
+          
+          
+          //good golly
           if (
             ($tag === "all" ||
               ($tag !== "all" && imageData.category.includes($tag))) &&

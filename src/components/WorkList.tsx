@@ -64,25 +64,46 @@ const WorkList = () => {
           all
         </span>
         <span
-          id="code"
+          id="web"
           className="tag deselected"
-          onClick={() => updateTags("code")}
+          onClick={() => updateTags("web")}
         >
-          code
+          web
         </span>
         <span
-          id="design"
+          id="uiux"
           className="tag deselected"
-          onClick={() => updateTags("design")}
+          onClick={() => updateTags("uiux")}
         >
-          design
+          ui/ux
         </span>
         <span
-          id="art"
+          id="branding"
           className="tag deselected"
-          onClick={() => updateTags("art")}
+          onClick={() => updateTags("branding")}
         >
-          art
+          branding
+        </span>
+        <span
+          id="print"
+          className="tag deselected"
+          onClick={() => updateTags("print")}
+        >
+          print
+        </span>
+        <span
+          id="3d"
+          className="tag deselected"
+          onClick={() => updateTags("3d")}
+        >
+          3D
+        </span>
+        <span
+          id="misc"
+          className="tag deselected"
+          onClick={() => updateTags("misc")}
+        >
+          misc
         </span>
       </div>
       <hr className="works-hr"></hr>
