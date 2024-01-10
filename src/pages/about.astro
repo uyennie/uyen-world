@@ -1,0 +1,63 @@
+---
+import Sidebar from "../layouts/Sidebar.astro";
+import "../styles/global.scss";
+import "../styles/index.scss";
+import "../styles/about.scss";
+import { ViewTransitions } from 'astro:transitions';
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content="Yihui Hu personal site" />
+    <title>About</title>
+    <ViewTransitions />
+  </head>
+  <body>
+    <div class="index-container">
+      <div id="sidebar">
+        <Sidebar />
+      </div>
+      <div class="about-page-wrapper">
+        <div class="about-page-container">
+          <span>Me</span>
+          <div>
+            <img class="about-image" src="/assets/about/about.jpg" />
+            <span class="about-image-caption">Hiking in Olympic National Park, Washington c. Nov 2023</span>
+          </div>
+          <div class="about" style={{ marginBottom: "55px" }}>
+            <span>Hello! I'm Uyen (pronounced 'win').</span>
+            <span>
+              I'm from Naarm (Melbourne, Australia), currently studying CS at Tufts in Medford. I'm
+              interested in creating shared experiences on the web and building
+              with polish and performance in mind. In my free time, I continue
+              to explore type, print, design and zine-making.
+            </span>
+            <span>
+              You can view my CV <a
+                href="https://drive.google.com/file/d/1O5RdirrU7IDvmsVPGWqLS91VsayWJtmD/view?usp=sharing"
+                target="_blank"
+                class="wavy-link">here</a
+              >.
+            </span>
+          </div>
+        </div>
+        <div class="back-button">
+          <span class="back-button">
+            <a class="gray-link" href="/">Home</a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+<script>
+  const mobile = window.innerWidth <= 864 ? true : false;
+  document.getElementById("article-body")!.style.backgroundColor = mobile
+    ? "black"
+    : "";
+</script>

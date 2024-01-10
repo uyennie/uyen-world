@@ -1,0 +1,71 @@
+---
+import "@fontsource/fragment-mono";
+import "../styles/sidebar.scss";
+import WorkList from "../components/WorkList";
+import ListeningTo from "../components/Listening";
+import Reading from "../components/Reading.astro";
+import Currently from "../components/Currently.astro";
+
+// const response = await fetch(
+//   `https://api.github.com/repos/yihui-hu/yihui-work/commits`
+// );
+// const data = await response.json();
+
+// const url = data[0].html_url;
+
+// const rawDate = data[0]!.commit!.committer!.date as string;
+// const js = Date.parse(rawDate);
+// const timestamp = js;
+// const date = new Date(timestamp);
+// const dateFormat = date.toDateString();
+---
+
+<div class="sidebar-container">
+  <span class="name">
+    <a class="name-link" href="/">Uyen Dien</a>
+    <a class="gray-link" href="/about">About</a>
+  </span>
+  <div class="about-container">
+    <span class="about-blurb">
+      Turning pixels into poetry. <br>
+      Recent design and IT graduate from Monash University.
+      {/* Sometimes I <a
+        href="/notes"
+        class="wavy-link">write</a
+      >. */}
+    </span>
+    <div class="about-links">
+      I'm also on:
+      <ul class="list">
+        <li><a href="https://www.instagram.com/uyen.world/" target="_blank">Instagram</a></li>
+        <li>
+          <a href="https://github.com/uyennie" target="_blank">GitHub</a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/uyendien/" target="_blank">LinkedIn</a>
+        </li>
+        <li><a href="mailto: dienuyenh@gmail.com" target="_blank">Gmail</a></li>
+        <li>
+          <a href="/links"> More →</a>
+        </li>
+      </ul>
+      
+    </div>
+  </div>
+  <WorkList client:load />
+  <ListeningTo client:load />
+  <Reading />
+  <Currently />
+  <div class="about-blurb">
+    <span>
+      This site is built by Yihui Hu. <br> View the source code <a
+        href="https://github.com/yihui-hu/yihui-hu.github.io"
+        class="wavy-link"
+        target="_blank">here</a
+      >.
+    </span>
+  </div>
+  <!-- <span class="last-updated">
+    <a href={url} id="last-updated"> Last updated: {dateFormat}</a>
+  </span> -->
+</div>
