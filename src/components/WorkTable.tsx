@@ -53,9 +53,7 @@ const WorkTable = () => {
           Thanks for helping me clear the table.
         </p>
         {images.map((imageData, index) => {
-          
-          
-          //good golly
+          // 🙏 forgive me
           if (
             ($tag === "all" ||
               ($tag !== "all" && imageData.category.includes($tag))) &&
@@ -70,6 +68,7 @@ const WorkTable = () => {
                 transition={{ delay: (index + 1) / 100, duration: 0.06 }}
                 key={index}
               >
+
                 <Draggable
                   defaultPosition={positions[index]}
                   onMouseDown={
