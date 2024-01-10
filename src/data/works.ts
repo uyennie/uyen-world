@@ -22,7 +22,7 @@ export const works: WorkListItem[] = [
   },
   {
     title: "Curology",
-    description: "figma plugin for competitive designing",
+    description: "redesign of Curology website",
     blurb: "figma plugin",
     year: "2023–",
     category: "uiux",

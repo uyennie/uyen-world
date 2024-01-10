@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Article.astro
-title: "[CONTENT?]]"
+title: "[CONTENT?]"
 pubDate: 2023-10-06
 description: "An exploration / refinement of the Goodreads iOS app."
 author: "Uyen Dien"

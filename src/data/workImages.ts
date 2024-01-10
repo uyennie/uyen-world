@@ -25,6 +25,16 @@ const workImages: WorkImageData[] = [
     id: "CONTENT",
     category: "code design",
   },
+  {
+    url: "/assets/works/future-record-2.jpg",
+    id: "Future Record",
+    category: "code design",
+  },
+  {
+    url: "https://pyxis.nymag.com/v1/imgs/b18/81c/0094ff38597e994a5a98d16c02a9d768cd-23-walking-shark-1.rsocial.w1200.jpg",
+    id: "DEUX",
+    category: "code design",
+  },
 ];
 
 export default workImages;
