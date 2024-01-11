@@ -12,4 +12,8 @@ tags: ["uiux"]
 `2023`
 `ui/ux`
 
-Nothing here yet either!
+Pls add description here uyen lol!!!!!
+
+![image](/assets/curology/curology-1.png)
+![image](/assets/curology/curology-3.png)
+![image](/assets/curology/curology-4.png)
