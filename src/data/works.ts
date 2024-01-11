@@ -35,7 +35,7 @@ export const works: WorkListItem[] = [
     description: "bookmarking, capture-anything site",
     blurb: "bookmarking site",
     year: "2022–23",
-    category: "code design",
+    category: "web uiux",
     url: "/works/content",
     new: false,
     wip: false,

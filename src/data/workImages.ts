@@ -13,27 +13,62 @@ const workImages: WorkImageData[] = [
   {
     url: "/assets/works/digital-self-4.jpg",
     id: "d.selfhood",
-    category: "art design",
+    category: "print",
   },
   {
     url: "https://img.freepik.com/free-vector/cute-shark-eating-bone-waving-hand-cartoon-vector-icon-illustration-animal-nature-isolated-flat_138676-6427.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704758400&semt=ais",
     id: "Curology",
-    category: "code design",
+    category: "uiux",
   },
   {
     url: "/assets/works/content_1.webp",
     id: "CONTENT",
-    category: "code design",
+    category: "web uiux",
   },
   {
     url: "/assets/works/future-record-2.jpg",
     id: "Future Record",
-    category: "code design",
+    category: "web uiux",
   },
   {
-    url: "https://pyxis.nymag.com/v1/imgs/b18/81c/0094ff38597e994a5a98d16c02a9d768cd-23-walking-shark-1.rsocial.w1200.jpg",
+    url: "/assets/works/deus-ex-1.jpg",
     id: "DEUX",
-    category: "code design",
+    category: "web uiux",
+  },
+  {
+    url: "/assets/works/in-your-hands-2.jpg",
+    id: "In Your Hands",
+    category: "print",
+  },
+  {
+    url: "/assets/works/incubator-5.png",
+    id: "Incubator",
+    category: "print branding",
+  },
+  {
+    url: "/assets/works/terminal-1.png",
+    id: "Terminal",
+    category: "misc branding",
+  },
+  {
+    url: "/assets/works/disorient-1.jpg",
+    id: "DiSoRiEnT",
+    category: "misc",
+  },
+  {
+    url: "/assets/works/smiley-cakes2.png",
+    id: "Smiley Cakes",
+    category: "print branding",
+  },
+  {
+    url: "/assets/works/frost-2.jpg",
+    id: "Frost",
+    category: "3d",
+  },
+  {
+    url: "/assets/works/illo-1.jpg",
+    id: "misc.",
+    category: "misc",
   },
 ];
 
