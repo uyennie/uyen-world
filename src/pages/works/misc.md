@@ -12,11 +12,8 @@ tags: ["misc"]
 `Dec 2022`
 `misc`
 
-An essay and collection of articles on the topic of digital selfhood. The publication aims to give insight on the complexity of existing online and provides alternatives to cultivate a more mindful digital experience. 
+Miscellaneous illustrations drawn from 2020–2022
 
-The publication is printed on EcoStar recycled 120gsm.
-
-![image](/assets/dselfhood/digital-self-4.jpg)
-![image](/assets/dselfhood/digital-self-1.JPG)
-![image](/assets/dselfhood/digital-self-2.gif)
-![image](/assets/dselfhood/digital-self-3.jpg)
+![image](/assets/misc/illo-1.jpg)
+![image](/assets/misc/illo-2.jpg)
+![image](/assets/misc/illo-3.jpg)
