@@ -6,7 +6,7 @@ const ListeningTo = () => {
   useEffect(() => {
     const fetchMusic = async () => {
       const response = await fetch(
-        `https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=yihuihu&api_key=4154ee8ba6685b36c18d650291b67dc6&format=json&limit=1`
+        `https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=soobadoobee&api_key=4154ee8ba6685b36c18d650291b67dc6&format=json&limit=1`
       );
       const data = await response.json();
       const track = data.recenttracks.track[0];
@@ -46,7 +46,7 @@ const ListeningTo = () => {
       <div id="currently-container">
         <a
           id="track-link"
-          href="https://open.spotify.com/user/notyihui"
+          href="https://open.spotify.com/user/uyen_dien"
           target="_blank"
         >
           <img
