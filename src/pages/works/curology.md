@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Article.astro
-title: ""
+title: "Curology"
 pubDate: 2023-13-06
 description: ""
 author: "Uyen Dien"

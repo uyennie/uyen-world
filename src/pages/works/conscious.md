@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/Article.astro
-title: "20XX catalogue of flora & fauna"
+title: "Conscious"
 pubDate: 2023-15-06
-description: "Imagining"
+description: ""
 author: "Uyen Dien"
 tags: ["uiux"]
 ---

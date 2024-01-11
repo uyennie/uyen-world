@@ -1,22 +1,22 @@
 ---
 layout: ../../layouts/Article.astro
-title: "d.selfhood"
+title: "Smiley Cakes"
 pubDate: 2023-10-06
-description: "An exploration / refinement of the Goodreads iOS app."
+description: ""
 author: "Uyen Dien"
-tags: ["print"]
+tags: ["print branding"]
 ---
 
-## d.selfhood
+## Smiley Cakes
 
 `Dec 2022`
 `print`
+`branding`
 
-An essay and collection of articles on the topic of digital selfhood. The publication aims to give insight on the complexity of existing online and provides alternatives to cultivate a more mindful digital experience. 
+Smiley Cakes is a hybrid bakery that fuses creativity with social cause. Centered around collaboration and the creative process, Smiley Cakes enables the consumer to build their custom cake from an expansive selection of cake bases, fillings and decorations. The brand identity took on a persona. A friendly, optimistic and approachable individual who values creativity, collaboration and the community. This brand persona is reflected through the friendly 'conversational' copy writing, colours and textures.
 
-The publication is printed on EcoStar recycled 120gsm.
-
-![image](/assets/deux/deux-ex-1.jpg)
-![image](/assets/dselfhood/digital-self-1.JPG)
-![image](/assets/dselfhood/digital-self-2.gif)
-![image](/assets/dselfhood/digital-self-3.jpg)
+![image](/assets/smiley-cakes/smiley-cakes1.png)
+![image](/assets/smiley-cakes/smiley-cakes2.png)
+![image](/assets/smiley-cakes/smiley-cakes3.png)
+![image](/assets/smiley-cakes/smiley-cakes4.png)
+![image](/assets/smiley-cakes/smiley-cakes5.png)

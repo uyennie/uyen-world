@@ -1,22 +1,21 @@
 ---
 layout: ../../layouts/Article.astro
-title: "d.selfhood"
+title: "Incubator"
 pubDate: 2023-10-06
-description: "An exploration / refinement of the Goodreads iOS app."
+description: ""
 author: "Uyen Dien"
-tags: ["print"]
+tags: ["print branding"]
 ---
 
-## d.selfhood
+## Incubator
 
 `Dec 2022`
 `print`
+`branding`
 
-An essay and collection of articles on the topic of digital selfhood. The publication aims to give insight on the complexity of existing online and provides alternatives to cultivate a more mindful digital experience. 
+The Incubator is a contemporary museum exhibiting prototypes alongside works produced by emerging creatives and academics. Centred around the concept of an incubator, the identity is composed of a vivid blue, symbolic of UV blue light and it’s growth accelerating properties.
 
-The publication is printed on EcoStar recycled 120gsm.
-
-![image](/assets/dselfhood/digital-self-4.jpg)
-![image](/assets/dselfhood/digital-self-1.JPG)
-![image](/assets/dselfhood/digital-self-2.gif)
-![image](/assets/dselfhood/digital-self-3.jpg)
+![image](/assets/incubator/incubator-5.png)
+![image](/assets/incubator/incubator-2.png)
+![image](/assets/incubator/incubator-3.png)
+![image](/assets/incubator/incubator-4.png)

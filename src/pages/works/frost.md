@@ -1,22 +1,22 @@
 ---
 layout: ../../layouts/Article.astro
-title: "d.selfhood"
+title: "Frost"
 pubDate: 2023-10-06
-description: "An exploration / refinement of the Goodreads iOS app."
+description: ""
 author: "Uyen Dien"
-tags: ["print"]
+tags: ["3d"]
 ---
 
-## d.selfhood
+## Frost
 
 `Dec 2022`
-`print`
+`3D`
 
-An essay and collection of articles on the topic of digital selfhood. The publication aims to give insight on the complexity of existing online and provides alternatives to cultivate a more mindful digital experience. 
+Frost is 3D immersive environment that depicts a frozen wasteland with a secret entrance to an enchanted lake. 
 
-The publication is printed on EcoStar recycled 120gsm.
+All assets made by myself using Maya, Substance Painter and Unity.
 
-![image](/assets/dselfhood/digital-self-4.jpg)
-![image](/assets/dselfhood/digital-self-1.JPG)
-![image](/assets/dselfhood/digital-self-2.gif)
-![image](/assets/dselfhood/digital-self-3.jpg)
+![image](/assets/frost/frost-2.jpg)
+![image](/assets/frost/frost-1.jpg)
+<iframe style="border:none;" width="100%" height="590" src="https://www.youtube.com/embed/dTMOhZ6vRDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

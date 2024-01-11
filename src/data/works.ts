@@ -13,7 +13,7 @@ export const works: WorkListItem[] = [
   {
     title: "Conscious",
     description: "ethical and sustainable online shopping tool",
-    blurb: "native ios are.na app",
+    blurb: "online shopping tool",
     year: "2024–",
     category: "uiux",
     url: "/works/conscious",
@@ -23,7 +23,7 @@ export const works: WorkListItem[] = [
   {
     title: "Curology",
     description: "redesign of Curology website",
-    blurb: "figma plugin",
+    blurb: "website redesign",
     year: "2023–",
     category: "uiux",
     url: "/works/curology",
@@ -73,7 +73,7 @@ export const works: WorkListItem[] = [
   {
     title: "In Your Hands",
     description: "mental health manifesto",
-    blurb: "print",
+    blurb: "mental health manifesto",
     year: "2022",
     category: "print",
     url: "/works/inyourhands",
@@ -83,10 +83,20 @@ export const works: WorkListItem[] = [
   {
     title: "Incubator",
     description: "branding for contemporary museum",
-    blurb: "incubator branding",
+    blurb: "museum branding",
     year: "2021",
     category: "branding print",
     url: "/works/incubator",
+    new: false,
+    wip: false,
+  },
+  {
+    title: "Terminal",
+    description: "poster for exhibition",
+    blurb: "exhibition poster",
+    year: "2021",
+    category: "branding misc",
+    url: "/works/terminal",
     new: false,
     wip: false,
   },
@@ -103,7 +113,7 @@ export const works: WorkListItem[] = [
   {
     title: "Smiley Cakes",
     description: "branding for hybrid bakery",
-    blurb: "branding bakery",
+    blurb: "bakery branding",
     year: "2021",
     category: "branding print",
     url: "/works/smiley-cakes",
@@ -113,7 +123,7 @@ export const works: WorkListItem[] = [
   {
     title: "Frost",
     description: "3D immersive environment",
-    blurb: "unity",
+    blurb: "3D environment",
     year: "2022",
     category: "3d",
     url: "/works/frost",

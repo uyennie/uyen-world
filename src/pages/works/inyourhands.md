@@ -1,22 +1,22 @@
 ---
 layout: ../../layouts/Article.astro
-title: "d.selfhood"
+title: "In Your Hands"
 pubDate: 2023-10-06
-description: "An exploration / refinement of the Goodreads iOS app."
+description: ""
 author: "Uyen Dien"
 tags: ["print"]
 ---
 
-## d.selfhood
+## In Your Hands
 
 `Dec 2022`
 `print`
 
-An essay and collection of articles on the topic of digital selfhood. The publication aims to give insight on the complexity of existing online and provides alternatives to cultivate a more mindful digital experience. 
+In Your hands is a publication which aims to switch the negative narrative around mental health to one that offers hope and self-compassion. The book guides teenagers by posing a series of questions that helps them recognise harmful habits and behaviours that may contribute to a declining mental health. 
 
-The publication is printed on EcoStar recycled 120gsm.
+At it's conclusion, the publication invites the reader to create their own mental health manifesto; asking the readers to use these negative thoughts as a starting point to turn into something positive.
 
-![image](/assets/dselfhood/digital-self-4.jpg)
-![image](/assets/dselfhood/digital-self-1.JPG)
-![image](/assets/dselfhood/digital-self-2.gif)
-![image](/assets/dselfhood/digital-self-3.jpg)
+
+![image](/assets/inyourhands/in-your-hands-2.jpg)
+![image](/assets/inyourhands/in-your-hands-1.gif)
+![image](/assets/inyourhands/in-your-hands-3.jpg)

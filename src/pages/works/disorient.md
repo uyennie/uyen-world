@@ -1,22 +1,27 @@
 ---
 layout: ../../layouts/Article.astro
-title: "d.selfhood"
+title: "DiSoRiEnT"
 pubDate: 2023-10-06
-description: "An exploration / refinement of the Goodreads iOS app."
+description: ""
 author: "Uyen Dien"
-tags: ["print"]
+tags: ["3d misc"]
 ---
 
-## d.selfhood
+## DiSoRiEnT
 
 `Dec 2022`
-`print`
+`3D`
+`misc`
 
-An essay and collection of articles on the topic of digital selfhood. The publication aims to give insight on the complexity of existing online and provides alternatives to cultivate a more mindful digital experience. 
+DiSoRiEnT is an AR poster that aims to capture the essence of the ubiquitous suburb of Springvale. The more tame, orderly and symmetrical physical poster represents the first impressions of the suburb, and the AR poster is the lens in which the disorienting quality of Springvale truly reveals itself.
 
-The publication is printed on EcoStar recycled 120gsm.
+![image](/assets/disorient/disorient-1.jpg)
 
-![image](/assets/dselfhood/digital-self-4.jpg)
-![image](/assets/dselfhood/digital-self-1.JPG)
-![image](/assets/dselfhood/digital-self-2.gif)
-![image](/assets/dselfhood/digital-self-3.jpg)
+<video controls autoplay>
+  <source
+    src="/assets/disorient/disorient-2.mp4"
+    type="video/mp4"
+  ></source>
+</video>
+
+![image](/assets/disorient/disorient-3.jpg)
