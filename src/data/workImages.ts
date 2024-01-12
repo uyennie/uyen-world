@@ -16,7 +16,7 @@ const workImages: WorkImageData[] = [
     category: "print",
   },
   {
-    url: "https://img.freepik.com/free-vector/cute-shark-eating-bone-waving-hand-cartoon-vector-icon-illustration-animal-nature-isolated-flat_138676-6427.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704758400&semt=ais",
+    url: "/assets/works/curology-1.png",
     id: "Curology",
     category: "uiux",
   },

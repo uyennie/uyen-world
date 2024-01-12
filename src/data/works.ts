@@ -17,7 +17,7 @@ export const works: WorkListItem[] = [
     year: "2024–",
     category: "uiux",
     url: "/works/conscious",
-    new: true,
+    new: false,
     wip: true,
   },
   {
@@ -27,8 +27,8 @@ export const works: WorkListItem[] = [
     year: "2023–",
     category: "uiux",
     url: "/works/curology",
-    new: false,
-    wip: true,
+    new: true,
+    wip: false,
   },
   {
     title: "CONTENT",
