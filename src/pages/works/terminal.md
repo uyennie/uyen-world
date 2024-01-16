@@ -9,7 +9,7 @@ tags: ["branding misc"]
 
 ## Terminal
 
-`Dec 2022`
+`Mar 2021`
 `branding`
 `misc`
 

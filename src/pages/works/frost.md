@@ -9,7 +9,7 @@ tags: ["3d"]
 
 ## Frost
 
-`Dec 2022`
+`Jun 2022`
 `3D`
 
 Frost is 3D immersive environment that depicts a frozen wasteland with a secret entrance to an enchanted lake. 

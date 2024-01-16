@@ -9,7 +9,7 @@ tags: ["print"]
 
 ## In Your Hands
 
-`Dec 2022`
+`Jul 2021`
 `print`
 
 In Your hands is a publication which aims to switch the negative narrative around mental health to one that offers hope and self-compassion. The book guides teenagers by posing a series of questions that helps them recognise harmful habits and behaviours that may contribute to a declining mental health. 

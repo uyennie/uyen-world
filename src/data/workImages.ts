@@ -7,7 +7,7 @@ interface WorkImageData {
 const workImages: WorkImageData[] = [
   {
     url: "https://cdn.britannica.com/79/65379-050-5CF52BAC/Shortfin-mako-shark-seas.jpg",
-    id: "Conscious",
+    id: "Aware",
     category: "uiux",
   },
   {
@@ -21,7 +21,7 @@ const workImages: WorkImageData[] = [
     category: "uiux",
   },
   {
-    url: "/assets/works/content_1.webp",
+    url: "/assets/works/content-4.png",
     id: "CONTENT",
     category: "web uiux",
   },

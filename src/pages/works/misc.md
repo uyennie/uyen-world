@@ -9,7 +9,7 @@ tags: ["misc"]
 
 ## misc.
 
-`Dec 2022`
+`2020-`
 `misc`
 
 Miscellaneous illustrations drawn from 2020–2022

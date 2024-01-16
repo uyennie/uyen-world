@@ -9,7 +9,7 @@ tags: ["web"]
 
 ## DEUX EX MACHINA
 
-`Dec 2022`
+`Nov 2022`
 `print`
 
 A microsite that aims to reimagine established relationships between reader, text, and author, and to fully utilise the affordances the web offers in the presentation of text. Inspired by the literary framework of The Hero's Journey, Deus Ex Machina utilises articles on intersection of the esoteric and the electronic (cyber mysticism, mythmaking, fiction, world building), and presents them by traversing the texts through different directions on a compass.

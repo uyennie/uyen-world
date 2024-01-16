@@ -9,7 +9,7 @@ tags: ["print branding"]
 
 ## Incubator
 
-`Dec 2022`
+`Dec 2021`
 `print`
 `branding`
 
