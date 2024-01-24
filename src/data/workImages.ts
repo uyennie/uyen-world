@@ -7,7 +7,7 @@ interface WorkImageData {
 const workImages: WorkImageData[] = [
   {
     url: "/assets/works/aware.png",
-    id: "Aware",
+    id: "Amply",
     category: "uiux",
   },
   {

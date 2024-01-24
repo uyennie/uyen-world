@@ -11,12 +11,12 @@ interface WorkListItem {
 
 export const works: WorkListItem[] = [
   {
-    title: "Aware",
+    title: "Amply",
     description: "ethical and sustainable online shopping tool",
     blurb: "online shopping tool",
     year: "2024–",
     category: "uiux",
-    url: "/works/aware",
+    url: "/works/amply",
     new: false,
     wip: true,
   },

@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Article.astro
-title: "Aware"
+title: "Amply"
 pubDate: 2023-15-06
 description: ""
 author: "Uyen Dien"
@@ -12,4 +12,4 @@ tags: ["uiux"]
 `Jan 2024`
 `ui/ux`
 
-Aware aims to transform online shopping behaviors by providing users with real-time ethical and sustainable ratings for brands and items. This browser extension disrupts unconscious consumption patterns, encouraging users to make informed and responsible choices at every stage of their online shopping journey.
+Amply aims to significantly reduce textile waste by connecting op shops, re-sellers, and customers on a centralised platform. By rescuing surplus items, providing economic opportunities for re-sellers, and offering sustainable shopping options, the project contributes to a more circular and responsible fashion ecosystem.
