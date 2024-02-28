@@ -19,3 +19,4 @@ By reshaping the Curology website, I aspired to create a digital platform that n
 ![image](/assets/curology/curology-1.png)
 ![image](/assets/curology/curology-3.png)
 ![image](/assets/curology/curology-4.png)
+![image](/assets/curology/curology-5.png)
