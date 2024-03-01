@@ -11,16 +11,13 @@ tags: ["uiux"]
 
 `Jan 2024`
 `ui/ux`
-`ux case study`
-`product design`
+`case study`
 
 <!-- **Tools:** `Figma` `Adobe Illustrator`
 
 **Timeline:** January 2024 - March 2024 -->
 
 # How might we encourage online shoppers to buy more consciously?
-
-![image](/assets/amply/amply-logo.png)
 
 ## The challenge
 
@@ -96,8 +93,19 @@ After mapping out the user task flow for the Chrome extension, we recognised an 
 
 `Phase Three`
 
-# To be continued...
+# Crafting Conscious, Green, and Inviting
 
+![image](/assets/amply/amply-logo.png)
+
+In developing **Amply's** branding, it was imperative for us to embody the essence of being **green, simple, and minimalistic.** Inspired by the need for approachability and user-friendliness, I aimed to create a visual identity that contrasted with the seriousness of ethical shopping discussions. By opting for simplicity, I aimed to alleviate any **intimidation** or **overwhelm** that users may associate with navigating ethical shopping practices. Through the green, simple, and minimalistic branding approach, Amply aims to be an inviting companion in users' ethical shopping journeys, facilitating informed and conscious consumer decisions.
+
+## UI style guides
+
+![image](/assets/amply/amply-style.png)
+
+<!-- ## Wireframing -->
+
+# To be continued...
 
 
 
