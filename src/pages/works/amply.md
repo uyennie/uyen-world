@@ -50,8 +50,8 @@ My research began with a survey distributed to 15 participants, each falling int
 3. Participants who have limited knowledge or awareness of ethical shopping practices.
 
 The objective of my research was to **gain insights into the ethical shopping habits, challenges, and attitudes of individuals across different levels of engagement with ethical consumerism.**
-
-![image](/assets/amply/amply-graph.jpeg)
+![image](/assets/amply/amply-interview1.png)
+![image](/assets/amply/amply-graph.png)
 
 ## Research findings
 
@@ -59,7 +59,7 @@ From my research I was able to identify a trend of various pain points felt by p
 
 ![image](/assets/amply/amply-pain.png)
 
-After analysing these pain points, it became evident that developing a **Google Chrome extension** would be a more practical and accessible solution for addressing users' needs in the realm of ethical shopping. The extension format allows for **seamless integration** into users' existing online shopping experiences, providing immediate access to ethical ratings and information without the need for downloading and navigating a separate app.
+After analysing these pain points, it became evident that developing a **Google Chrome extension** would be a more practical and accessible solution for addressing users' needs in the realm of ethical shopping. The extension format allows for **seamless integration** into users' existing online shopping experiences, providing **immediate access** to ethical ratings and information without the need for downloading and navigating a separate app.
 
 > **How might this Google Chrome extension seamlessly integrate ethical ratings and information into users' online shopping experiences, fostering informed and conscious purchasing decisions while maintaining ease of use and accessibility?**
 
@@ -68,8 +68,22 @@ After analysing these pain points, it became evident that developing a **Google 
 
 ## User Persona
 
+Before designing, I wanted define who a possible user might be and why they would want to use this product.
+
+I created user personas with two of the main consumers identified during the research phase so that I could have a **reference point throughout my design process and bring the app design back to my user and what would be helpful for them.**
+
+![image](/assets/amply/amply-patrick.png)
+![image](/assets/amply/amply-anya.png)
+
+## Task Flow
+
+Using my user personas, I wanted understand the screens I needed to prototype and what information would be presented at each step, I drafted a quick task flow to **get a better understanding of how my user would onboard onto the app.**
+
+This task also helped me visualise the order of content and necessary details needed from the user. I would **utilise this flow to communicate to various stakeholders the preliminary direction for the app.**
+
+
 <!-- `Phase Three`
-# The solution --> -->
+# The solution -->
 
 # To be continued...
 
