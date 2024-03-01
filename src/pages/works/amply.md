@@ -60,9 +60,9 @@ From my research I was able to identify a trend of various pain points felt by p
 
 ![image](/assets/amply/amply-pain.png)
 
-After analysing these pain points, it became evident that developing a **Google Chrome extension**, named Amply, would be a more practical and accessible solution for addressing users' needs in the realm of ethical shopping. The extension format allows for **seamless integration** into users' existing online shopping experiences, providing **immediate access** to ethical ratings and information without the need for downloading and navigating a separate app.
+After analysing these pain points, it became evident that developing a **Google Chrome extension** would be a more practical and accessible solution for addressing users' needs in the realm of ethical shopping. The extension format allows for **seamless integration** into users' existing online shopping experiences, providing **immediate access** to ethical ratings and information without the need for downloading and navigating a separate app.
 
-> How might Amply, a **Google Chrome extension**, seamlessly integrate **ethical ratings** and information into users' online shopping experiences, fostering **informed and conscious purchasing** decisions while maintaining ease of use and accessibility?
+> How might a **Google Chrome extension**, seamlessly integrate **ethical ratings** and information into users' online shopping experiences, fostering **informed and conscious purchasing** decisions while maintaining ease of use and accessibility?
 
 <hr style="
     margin-top: 50px;
@@ -82,12 +82,13 @@ Before designing, I wanted define who a possible user might be and why they woul
 
 Using my user personas, I wanted understand the screens I needed to prototype and what information would be presented at each step, I drafted a quick task flow to **get a better understanding of how my user would onboard onto the app.**
 
+![image](/assets/amply/amply-taskflow.png)
 
-## Turning the Amply Chrome Extension: From Static Display to Conversational AI 
+## Turning the Chrome Extension: From Static Display to Conversational AI 
 
-After mapping out the user task flow for the Amply Chrome extension, we recognised an opportunity to enhance the user experience by leveraging a conversational approach through the "Ask Amply" function. Rather than relying solely on traditional display methods for ethical ratings, we aimed to make Amply more **engaging, friendly, and approachable** by introducing an **AI-driven conversational interface**. This shift allowed users to interact with Amply in a more natural and intuitive manner, fostering a sense of dialogue and collaboration in their ethical shopping journey. By integrating AI suggestions into the "Ask Amply" function, we empowered users to ask questions and receive personalised recommendations, creating a more dynamic and interactive experience that aligns with the evolving needs and preferences of modern online shoppers.
+After mapping out the user task flow for the Chrome extension, we recognised an opportunity to enhance the user experience by leveraging a conversational approach through the "Ask Us" function. Rather than relying solely on traditional display methods for ethical ratings, we aimed to make the product more **engaging, friendly, and approachable** by introducing an **AI-driven conversational interface**. This shift allowed users to interact with the product in a more natural and intuitive manner, fostering a sense of dialogue and collaboration in their ethical shopping journey. By integrating AI suggestions into the "Ask Us" function, we empowered users to ask questions and receive personalised recommendations, creating a more dynamic and interactive experience that aligns with the evolving needs and preferences of modern online shoppers.
 
-> We are evolving beyond static displays to a dynamic conversational experience with 'Ask Amply', embracing the power of **AI suggestions**, fostering a more engaging, friendly, and approachable interaction for users.
+> We are evolving beyond static displays to a dynamic conversational experience with 'Ask Us', embracing the power of **AI suggestions**, fostering a more engaging and approachable interaction for users.
 
 <hr style="
     margin-top: 50px;
