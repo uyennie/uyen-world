@@ -36,7 +36,9 @@ My role in this project covers:
 - UI Design
 - Brand designer
 
----
+<hr style="
+    margin-top: 50px;
+    margin-bottom: 45px;">
 
 `Phase One`
 # Understanding the ethical shopping landscape
@@ -62,7 +64,9 @@ After analysing these pain points, it became evident that developing a **Google 
 
 > How might Amply, a **Google Chrome extension**, seamlessly integrate **ethical ratings** and information into users' online shopping experiences, fostering **informed and conscious purchasing** decisions while maintaining ease of use and accessibility?
 
----
+<hr style="
+    margin-top: 50px;
+    margin-bottom: 45px;">
 
 `Phase Two`
 # Visualising the problem
@@ -85,7 +89,9 @@ After mapping out the user task flow for the Amply Chrome extension, we recognis
 
 > We are evolving beyond static displays to a dynamic conversational experience with 'Ask Amply', embracing the power of **AI suggestions**, fostering a more engaging, friendly, and approachable interaction for users.
 
----
+<hr style="
+    margin-top: 50px;
+    margin-bottom: 45px;">
 
 `Phase Three`
 
