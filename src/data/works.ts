@@ -12,8 +12,8 @@ interface WorkListItem {
 export const works: WorkListItem[] = [
   {
     title: "Amply",
-    description: "ethical and sustainable online shopping tool",
-    blurb: "online shopping tool",
+    description: "chrome extension empowering ethical online shopping",
+    blurb: "ethical online shopping tool",
     year: "2024–",
     category: "uiux",
     url: "/works/amply",

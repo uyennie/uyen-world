@@ -14,8 +14,6 @@ tags: ["uiux"]
 `ux case study`
 `product design`
 
-*A Google Chrome Extension Empowering Ethical Online Shopping* 
-
 <!-- **Tools:** `Figma` `Adobe Illustrator`
 
 **Timeline:** January 2024 - March 2024 -->
@@ -42,7 +40,7 @@ My role in this project covers:
 `Phase One`
 # Understanding the Ethical Shopping Landscape
 
-## Research
+## Who's seeking out ethically made items?
 My research began with a survey distributed to 15 participants, each falling into one of the following categories:
 
 1. Participants who actively seek out ethically sourced products.
@@ -50,7 +48,7 @@ My research began with a survey distributed to 15 participants, each falling int
 3. Participants who have limited knowledge or awareness of ethical shopping practices.
 
 The objective of my research was to **gain insights into the ethical shopping habits, challenges, and attitudes of individuals across different levels of engagement with ethical consumerism.**
-![image](/assets/amply/amply-interview1.png)
+<!-- ![image](/assets/amply/amply-interview1.png) -->
 ![image](/assets/amply/amply-graph.png)
 
 ## Research findings
@@ -59,28 +57,30 @@ From my research I was able to identify a trend of various pain points felt by p
 
 ![image](/assets/amply/amply-pain.png)
 
-After analysing these pain points, it became evident that developing a **Google Chrome extension** would be a more practical and accessible solution for addressing users' needs in the realm of ethical shopping. The extension format allows for **seamless integration** into users' existing online shopping experiences, providing **immediate access** to ethical ratings and information without the need for downloading and navigating a separate app.
+After analysing these pain points, it became evident that developing a **Google Chrome extension**, named Amply, would be a more practical and accessible solution for addressing users' needs in the realm of ethical shopping. The extension format allows for **seamless integration** into users' existing online shopping experiences, providing **immediate access** to ethical ratings and information without the need for downloading and navigating a separate app.
 
-> **How might this Google Chrome extension seamlessly integrate ethical ratings and information into users' online shopping experiences, fostering informed and conscious purchasing decisions while maintaining ease of use and accessibility?**
+> **How might Amply, a Google Chrome extension, seamlessly integrate ethical ratings and information into users' online shopping experiences, fostering informed and conscious purchasing decisions while maintaining ease of use and accessibility?**
 
 `Phase Two`
 # Visualising the problem
 
-## User Persona
+Before designing, I wanted define who a possible user might be and why they would want to use this product. I created user personas with two of the main consumers identified during the research phase so that I could have a **reference point** throughout my design process and bring the app design back to my user and what would be helpful for them.
 
-Before designing, I wanted define who a possible user might be and why they would want to use this product.
-
-I created user personas with two of the main consumers identified during the research phase so that I could have a **reference point throughout my design process and bring the app design back to my user and what would be helpful for them.**
+## What are some habits of the main consumers of this product?
 
 ![image](/assets/amply/amply-patrick.png)
 ![image](/assets/amply/amply-anya.png)
 
-## Task Flow
+## How are the users going to navigate a Chrome extension?
 
 Using my user personas, I wanted understand the screens I needed to prototype and what information would be presented at each step, I drafted a quick task flow to **get a better understanding of how my user would onboard onto the app.**
 
-This task also helped me visualise the order of content and necessary details needed from the user. I would **utilise this flow to communicate to various stakeholders the preliminary direction for the app.**
 
+## Turning the Amply Chrome Extension: From Static Display to Conversational AI 
+
+After mapping out the user task flow for the Amply Chrome extension, we recognised an opportunity to enhance the user experience by leveraging a conversational approach through the "Ask Amply" function. Rather than relying solely on traditional display methods for ethical ratings, we aimed to make Amply more **engaging, friendly, and approachable** by introducing an **AI-driven conversational interface**. This shift allowed users to interact with Amply in a more natural and intuitive manner, fostering a sense of dialogue and collaboration in their ethical shopping journey. By integrating AI suggestions into the "Ask Amply" function, we empowered users to ask questions and receive personalised recommendations, creating a more dynamic and interactive experience that aligns with the evolving needs and preferences of modern online shoppers.
+
+> **We are evolving beyond static displays to a dynamic conversational experience with 'Ask Amply', embracing the power of AI suggestions, fostering a more engaging, friendly, and approachable interaction for users.**
 
 <!-- `Phase Three`
 # The solution -->

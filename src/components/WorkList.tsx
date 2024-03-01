@@ -64,18 +64,18 @@ const WorkList = () => {
           all
         </span>
         <span
-          id="web"
-          className="tag deselected"
-          onClick={() => updateTags("web")}
-        >
-          web
-        </span>
-        <span
           id="uiux"
           className="tag deselected"
           onClick={() => updateTags("uiux")}
         >
           ui/ux
+        </span>
+        <span
+          id="web"
+          className="tag deselected"
+          onClick={() => updateTags("web")}
+        >
+          web
         </span>
         <span
           id="branding"
