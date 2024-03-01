@@ -26,7 +26,7 @@ tags: ["uiux"]
 
 This campaign delves into the realm of ethical consumerism and its significance for modern online shoppers. With growing concerns about ethics and sustainability, particularly among younger demographics, there's a palpable shift towards conscious consumption. However, the challenge isn't merely to solve the complexities of ethical shopping, but rather to provide users with a **resource** that **simplifies** the process, empowers them to align their purchases with their values, and fosters a sense of **accountability** towards sustainable practices. 
 
-> **How might we design an app that seamlessly integrates ethical ratings into users' shopping experiences, while maintaining an easy-to-use interface that guides and empowers even the most novice ethical shoppers?**
+> How might we design an app that seamlessly integrates **ethical ratings** into users' shopping experiences, while maintaining an easy-to-use interface that guides and empowers even the most novice ethical shoppers?
 
 
 ## My role
@@ -36,9 +36,10 @@ My role in this project covers:
 - UI Design
 - Brand designer
 
+---
 
 `Phase One`
-# Understanding the Ethical Shopping Landscape
+# Understanding the ethical shopping landscape
 
 ## Who's seeking out ethically made items?
 My research began with a survey distributed to 15 participants, each falling into one of the following categories:
@@ -59,7 +60,9 @@ From my research I was able to identify a trend of various pain points felt by p
 
 After analysing these pain points, it became evident that developing a **Google Chrome extension**, named Amply, would be a more practical and accessible solution for addressing users' needs in the realm of ethical shopping. The extension format allows for **seamless integration** into users' existing online shopping experiences, providing **immediate access** to ethical ratings and information without the need for downloading and navigating a separate app.
 
-> **How might Amply, a Google Chrome extension, seamlessly integrate ethical ratings and information into users' online shopping experiences, fostering informed and conscious purchasing decisions while maintaining ease of use and accessibility?**
+> How might Amply, a **Google Chrome extension**, seamlessly integrate **ethical ratings** and information into users' online shopping experiences, fostering **informed and conscious purchasing** decisions while maintaining ease of use and accessibility?
+
+---
 
 `Phase Two`
 # Visualising the problem
@@ -80,10 +83,11 @@ Using my user personas, I wanted understand the screens I needed to prototype an
 
 After mapping out the user task flow for the Amply Chrome extension, we recognised an opportunity to enhance the user experience by leveraging a conversational approach through the "Ask Amply" function. Rather than relying solely on traditional display methods for ethical ratings, we aimed to make Amply more **engaging, friendly, and approachable** by introducing an **AI-driven conversational interface**. This shift allowed users to interact with Amply in a more natural and intuitive manner, fostering a sense of dialogue and collaboration in their ethical shopping journey. By integrating AI suggestions into the "Ask Amply" function, we empowered users to ask questions and receive personalised recommendations, creating a more dynamic and interactive experience that aligns with the evolving needs and preferences of modern online shoppers.
 
-> **We are evolving beyond static displays to a dynamic conversational experience with 'Ask Amply', embracing the power of AI suggestions, fostering a more engaging, friendly, and approachable interaction for users.**
+> We are evolving beyond static displays to a dynamic conversational experience with 'Ask Amply', embracing the power of **AI suggestions**, fostering a more engaging, friendly, and approachable interaction for users.
 
-<!-- `Phase Three`
-# The solution -->
+---
+
+`Phase Three`
 
 # To be continued...
 

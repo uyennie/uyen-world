@@ -15,6 +15,14 @@
   background-color: black;
   color: rgb(223, 223, 223);
 
+  h1 {
+    font-family: 'Fragment Mono';
+    font-size: 2.5em;
+    line-height: 1.2em;
+    margin-bottom: 40px;
+    // background-color: #181818;
+  }
+
   h2 {
     margin: 0;
     font-weight: 600;
@@ -37,7 +45,7 @@
 
 code {
   font-family: "Fragment Mono", monospace;
-  font-size: 13px;
+  font-size: 15px;
   color: rgb(144, 144, 144);
   background-color: rgb(37, 37, 37);
   border-radius: 4px;
@@ -138,12 +146,20 @@ td {
 }
 
 blockquote {
-  background: rgb(37, 37, 37) !important;
-  border-left: 5px solid #4e4e4e;
-  margin: 20px 0px 20px 20px;
-  padding-block: 15px;
-  padding-inline: 20px;
-  quotes: "\201C""\201D""\2018""\2019";
+  // background: rgb(37, 37, 37) !important;
+  // border-left: 5px solid #4e4e4e;
+  // margin: 20px 0px 20px 20px;
+  // padding-block: 15px;
+  // padding-inline: 20px;
+  // quotes: "\201C""\201D""\2018""\2019";
+
+  background: linear-gradient(45deg, rgb(22, 22, 22) 0%, rgb(48, 48, 48) 100%);
+  border-radius: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: solid 1px rgb(93, 93, 93);
 
   p {
     margin: 0 !important;
