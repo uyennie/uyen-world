@@ -15,11 +15,11 @@ const workImages: WorkImageData[] = [
     id: "d.selfhood",
     category: "print",
   },
-  {
-    url: "/assets/works/curology-1.png",
-    id: "Curology",
-    category: "uiux",
-  },
+  // {
+  //   url: "/assets/works/curology-1.png",
+  //   id: "Curology",
+  //   category: "uiux",
+  // },
   {
     url: "/assets/works/content-4.png",
     id: "CONTENT",
