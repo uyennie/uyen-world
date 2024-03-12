@@ -9,8 +9,10 @@ tags: ["uiux"]
 
 ## Curology
 
-`2023`
+`Jun 2023`
 `ui/ux`
+
+![image](/assets/curology/curology-1.png)
 
 # Redesigning Curology's Website: A UX Case Study to Enhance Brand Perception
 
@@ -31,7 +33,4 @@ From looking at the old website it seems like they have a **general and broad ta
 ## Bespoke storytelling – the final design
 Below are the final designs for the new Curology website. I feel that the personalised approach and modern aesthetics contributed to a more memorable and compelling online presence for Curology.
 
-![image](/assets/curology/curology-1.png)
-![image](/assets/curology/curology-3.png)
-![image](/assets/curology/curology-4.png)
 ![image](/assets/curology/curology-5.png)

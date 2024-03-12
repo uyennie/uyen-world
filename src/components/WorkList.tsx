@@ -131,8 +131,8 @@ const WorkList = () => {
                           gap: 5,
                         }}
                       >
-                        <span className="new-text">NEW</span>
-                        <span className="new-emoji">🌀</span>
+                        <span className="new-text">FAV</span>
+                        <span className="new-emoji">💙</span>
                       </div>
                     </div>
                   ) : work.wip ? (
