@@ -20,11 +20,16 @@ const workImages: WorkImageData[] = [
     id: "Slice",
     category: "uiux",
   },
-  // {
-  //   url: "/assets/works/curology-1.png",
-  //   id: "Curology",
-  //   category: "uiux",
-  // },
+  {
+    url: "/assets/works/spotify-1.jpg",
+    id: "Spotify Stories",
+    category: "uiux",
+  },
+  {
+    url: "/assets/works/curology-1.png",
+    id: "Curology",
+    category: "uiux",
+  },
   {
     url: "/assets/works/content-4.png",
     id: "CONTENT",
