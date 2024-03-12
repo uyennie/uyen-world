@@ -15,6 +15,11 @@ const workImages: WorkImageData[] = [
     id: "d.selfhood",
     category: "print",
   },
+  {
+    url: "/assets/works/slice-1.png",
+    id: "Slice",
+    category: "uiux",
+  },
   // {
   //   url: "/assets/works/curology-1.png",
   //   id: "Curology",
@@ -30,11 +35,11 @@ const workImages: WorkImageData[] = [
     id: "Future Record",
     category: "web uiux",
   },
-  {
-    url: "/assets/works/deus-ex-1.jpg",
-    id: "DEUX",
-    category: "web uiux",
-  },
+  // {
+  //   url: "/assets/works/deus-ex-1.jpg",
+  //   id: "DEUX",
+  //   category: "web uiux",
+  // },
   {
     url: "/assets/works/in-your-hands-2.jpg",
     id: "In Your Hands",

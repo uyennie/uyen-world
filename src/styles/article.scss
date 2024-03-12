@@ -95,6 +95,16 @@ video {
   margin-block: 20px;
 }
 
+.portrait {
+  display: flex;
+  justify-content: center;
+}
+
+.img-portrait {
+  text-align: center;
+  width: 40%;
+}
+
 table {
   border: 1px solid rgb(57, 57, 57);
   border-radius: 3px;
