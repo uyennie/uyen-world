@@ -75,15 +75,20 @@ const workImages: WorkImageData[] = [
     id: "Frost",
     category: "3d",
   },
-  {
-    url: "/assets/works/illo-1.jpg",
-    id: "misc.",
-    category: "misc",
-  },
+  // {
+  //   url: "/assets/works/illo-1.jpg",
+  //   id: "misc.",
+  //   category: "misc",
+  // },
   {
     url: "/assets/works/uyen-world.png",
     id: "uyen.world",
     category: "uiux web",
+  },
+  {
+    url: "/assets/works/web-1.jpg",
+    id: "silly sites",
+    category: "web",
   },
 ];
 

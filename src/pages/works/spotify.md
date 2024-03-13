@@ -9,7 +9,7 @@ tags: ["uiux"]
 
 ## Spotify Stories
 
-`Apr 2023`
+`May 2021`
 `ui/ux`
 `case study`
 
