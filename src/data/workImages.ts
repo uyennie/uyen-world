@@ -90,6 +90,11 @@ const workImages: WorkImageData[] = [
     id: "silly sites",
     category: "web",
   },
+  {
+    url: "/assets/works/",
+    id: "FreeBites",
+    category: "uiux",
+  },
 ];
 
 export default workImages;
