@@ -61,6 +61,10 @@ Visit the website at:
   ></source>
 </video>
 
+<hr style="
+    margin-top: 50px;
+    margin-bottom: 45px;">
+
 `silly site 03`
 ## Inspirations
 A little site I made after I was asked "Who inspires you?" at a job interview.
