@@ -71,6 +71,57 @@ During our research, I categorised the three primary user groups for the upcomin
 2. Individuals with surplus food to share (**surplus sharers**)
 3. Non-profit organisations and student societies
 
+## Empathy Mapping
+To highlight key research findings across all user types and aid in our decision-making, we utilised **empathy mapping**. This helped us make inferences about our users based on their behavior, prioritise where our focus laid, and determine what the most important takeaways were.
+
+![image](/assets/freebites/freebites-4.png)
+
+## The key community takeaways
+>"I love our free food events. It makes me **wish I was on campus more**." — Student, Surplus Seeker
+
+>"**One post** on Facebook **could not** provide an accurate visual of what was available." — Community Leader, Surplus Sharer
+
+>"I felt bad when **students came too late** and the food was **no longer there**."
+— Student Society Representative, Surplus Sharer
+
+>"I want to give people a **set time** for when food distribution begins."
+— Community Leader, Non-profit
+
+<hr style="
+    margin-top: 50px;
+    margin-bottom: 45px;">
+
+`Phase Two`
+
+# Harvesting the insights and nourishing the FreeBites design
+
+## Illustrating possible experiences
+In the storyboard I created, the task flow illustrates the interaction between surplus sharers and surplus seekers: from how a surplus sharer decides to post on FreeBites and what they must do to post successfully to when the seekers arrive with different expectations.
+
+![image](/assets/freebites/freebites-5.png)
+
+
+## Top solutions
+Storyboarding revealed that the main issues with the current experience were misaligned expectations. At this stage, we were able to establish our top solutions for our design that would remedy these issues:
+1. **Real-time updates:** Allowing surplus sharers to assign and change the food availability status on their post and notifying seekers of updates would help align expectations between them.
+2. **Post customisation:** Adding more options to allow for post customisation would minimize frustration, anxiety, and confusion during food acquisition. It would also present more accurate search results.
+3. **Social media model:** Modeling our design layout and iconography after social media platforms like Instagram and Facebook, further asserts that sense of community that FreeBites is aiming for. Adding in a liking feature, comments section, and profile acts as encouragement and proof to other users that people in their community are also engaging with the app.
+
+## What are the requirements of the app?
+By distilling the feedback gathered from the interviews, I have pinpointed the key functionalities necessary to ensure a seamless and intuitive user experience for the FreeBites app:
+
+1. Browse nearby food listings or search and view available food listings.
+2. Functionality to like, comment, or save posts for later.
+3. Feature to initiate the creation of a new food post.
+4. Fields to enter details such as food type, quantity, location, and availability status.
+5. Access to existing food posts from the user's profile or dashboard.
+6. Ability to select and modify post details, including availability status or food quantity.
+7. Ability to engage in direct messaging regarding food acquisition details or inquiries.
+
+
+
+
+
 
 
 # Case study to be continued...
