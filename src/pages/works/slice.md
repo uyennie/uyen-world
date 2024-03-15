@@ -15,18 +15,23 @@ tags: ["uiux"]
 
 ![image](/assets/slice/slice-1.png)
 
-# How can we enhance free food sharing and integrate it into the vibrant campus culture at Monash University?
+# How can we lower the barriers and warmly welcome more people to get started designing?
 
-## Overview
-Monash University hosts numerous events throughout the year, often providing free food to students. Currently, information about these events is shared through a Monash-non-affiliated Facebook group called Monash Stalkerspace. To streamline the process and create an official, Monash-recognised platform for sharing free food events, the university intends to launch a new app called FreeBites. This app aims to centralise information from various campus entities, including clubs, societies, student unions, local restaurants, and the community, making it easier for students to discover and access free food offerings.
+## The challenge
 
-> How can we effectively centralise and streamline the sharing of free food events at Monash University, transitioning from the current reliance on a Monash-non-affiliated Facebook group, Monash Stalkerspace, to an official, Monash-recognised platform?
+> Grab your sleeping bag, some bug spray, and a laptop — We’re going (virtual) camping 🏕
+Camp Figma is a design jam run by the UI/UX community at MADA (Monash Art, Design and Architecture). 
 
-## My role:
-My role in this project covers:
+For this challenge, we were given the prompt to **‘Make design more accessible’**, while considering the question: How can we help newer designers level up? 
+
+## The prompt
+Given the ambiguous nature of the prompt, we knew that we would have to think outside of the box and explore more ambitious ideas. We had to step outside our comfort zones to create an innovative, feasible, and inclusive plugin, while also keeping it simple enough to be completed in just over 48 hours.
+
+## My role
+
+Within a team of 3, my role in this project covers:
 - UX Research
 - UI Design
-- Brand designer
 
 <hr style="
     margin-top: 50px;
