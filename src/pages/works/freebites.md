@@ -13,7 +13,7 @@ tags: ["uiux"]
 `ui/ux`
 `case study`
 
-# How can we enhance free food sharing and integrate it into the vibrant campus culture at Monash University?
+# How can we enhance free food sharing and integrate it into the vibrant campus culture at Monash University? 
 
 ## Overview
 Monash University hosts numerous events throughout the year, often providing **free food** to students. Currently, information about these events is shared through a **Monash-non-affiliated Facebook group** called Monash Stalkerspace. To streamline the process and create an official, Monash-recognised platform for sharing free food events, the university intends to launch a new app called **FreeBites**. This app aims to centralise information from various campus entities, including clubs, societies, student unions, local restaurants, and the community, making it easier for students to discover and access free food offerings.
@@ -36,4 +36,28 @@ My role in this project covers:
     margin-bottom: 45px;">
 
 `Phase One`
-# Case study writing in progress...
+# A comprehensive UX Research: How will creating an app improve food sharing on campus? 
+Before beginning, I fleshed out a UX research plan, which included a competitive audit and user interviews with usability testing.
+
+> The main research goals were to understand the food sharing process on campus and identify the **different types of users** that might use the app and their **pain points, goals, and needs**.
+
+## Competitive Audit
+I conducted a competitive audit to familiarise ourselves with exisisting food sharing apops. The applications researched included other on-campus and local community food sharing apps and seeing what their offerings were. 
+
+![image](/assets/freebites/freebites-2.png)
+
+We identified multiple ways in which these competitors provide a better user experience than FreeBites:
+
+>1. More customisability and control to users
+>2. Ability to see live food availability updates
+>3. Clear linking between pages
+>4. Connects people with free food opportunities quickly and efficiently
+>5. Builds higher credibility between food sharers and seekers
+
+## A week of interviewing students and staff
+I conducted a total of 6 interviews with students, educators, and community leaders. Those interviews were broken down into 2 parts:
+
+1. Questions to learn about their current user flows and overall app experience
+2. Light usability test of the current design to observe how they find or post about food surplus in the current ecosystem
+
+# Case study to be continued...

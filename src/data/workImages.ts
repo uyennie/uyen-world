@@ -45,11 +45,11 @@ const workImages: WorkImageData[] = [
   //   id: "DEUX",
   //   category: "web uiux",
   // },
-  {
-    url: "/assets/works/in-your-hands-2.jpg",
-    id: "In Your Hands",
-    category: "print",
-  },
+  // {
+  //   url: "/assets/works/in-your-hands-2.jpg",
+  //   id: "In Your Hands",
+  //   category: "print",
+  // },
   {
     url: "/assets/works/incubator-5.png",
     id: "Incubator",
