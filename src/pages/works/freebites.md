@@ -46,18 +46,31 @@ I conducted a competitive audit to familiarise ourselves with exisisting food sh
 
 ![image](/assets/freebites/freebites-2.png)
 
-We identified multiple ways in which these competitors provide a better user experience than FreeBites:
+We observed various aspects where competitors excel:
 
->1. More customisability and control to users
->2. Ability to see live food availability updates
->3. Clear linking between pages
->4. Connects people with free food opportunities quickly and efficiently
->5. Builds higher credibility between food sharers and seekers
+>1. Enhanced user control and customisation options
+>2. **Real-time updates on food availability**
+>3. Clear navigation between pages
+>4. Efficient connection to free food opportunities
+>5. Establishment of trust between food sharers and seekers
 
 ## A week of interviewing students and staff
 I conducted a total of 6 interviews with students, educators, and community leaders. Those interviews were broken down into 2 parts:
 
-1. Questions to learn about their current user flows and overall app experience
-2. Light usability test of the current design to observe how they find or post about food surplus in the current ecosystem
+1. Questions aimed at understanding their current user behaviors and experiences with food-sharing apps.
+2. Conducting light usability tests to observe how they navigate and interact with a simulated app interface to find or post about food surplus.
+
+>Our objective was to identify common patterns and pain points in the existing food-sharing experience and determine how different user groups can effectively navigate and utilise the app.
+
+![image](/assets/freebites/freebites-3.png)
+
+## Identifying User Groups
+During our research, I categorised the three primary user groups for the upcoming FreeBites app.
+
+1. Individuals experiencing food insecurity (**surplus seekers**)
+2. Individuals with surplus food to share (**surplus sharers**)
+3. Non-profit organisations and student societies
+
+
 
 # Case study to be continued...
