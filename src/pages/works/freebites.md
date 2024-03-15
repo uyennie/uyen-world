@@ -119,7 +119,9 @@ By distilling the feedback gathered from the interviews, I pinpointed the key fu
 `Phase Three`
 # Nourishing the FreeBites design
 
+## Wireframing concepts
+I created low-fidelity concepts/ wireframes to explore a wide range of design ideas and solutions. Through this exploration, I visualided various design possibilities and identified the most efficient user flows. This phase allowed me to iterate rapidly and refine ideas before progressing to higher fidelity designs.
 
-
+![image](/assets/freebites/freebites-7.png)
 
 # Case study to be continued...
