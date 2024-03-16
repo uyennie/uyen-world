@@ -71,10 +71,7 @@ During our research, I categorised the three primary user groups for the upcomin
 2. Individuals with surplus food to share (**surplus sharers**)
 3. Non-profit organisations and student societies
 
-## Empathy Mapping
-To highlight key research findings across all user types and aid in our decision-making, we utilised **empathy mapping**. This helped us make inferences about our users based on their behavior, prioritise where our focus laid, and determine what the most important takeaways were.
-
-![image](/assets/freebites/freebites-4.png)
+This helped us make inferences about our users based on their behavior, prioritise where our focus laid, and determine what the most important takeaways were.
 
 ## The key community takeaways
 >"I love our free food events. It makes me **wish I was on campus more**." — Student, Surplus Seeker
@@ -123,5 +120,6 @@ By distilling the feedback gathered from the interviews, I pinpointed the key fu
 I created low-fidelity concepts/ wireframes to explore a wide range of design ideas and solutions. Through this exploration, I visualided various design possibilities and identified the most efficient user flows. This phase allowed me to iterate rapidly and refine ideas before progressing to higher fidelity designs.
 
 ![image](/assets/freebites/freebites-7.png)
+![image](/assets/freebites/freebites-8.png)
 
 # Case study to be continued...
