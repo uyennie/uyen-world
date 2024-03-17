@@ -121,6 +121,7 @@ In the process of establishing the brand guidelines for Freebites, I made a deli
 ![image](/assets/freebites/freebites-9.png)
 
 ## Establishing a design system
+![image](/assets/freebites/freebites-10.png)
 
 ## Wireframing concepts
 I created low-fidelity concepts/ wireframes to explore a wide range of design ideas and solutions. Through this exploration, I visualided various design possibilities and identified the most efficient user flows. This phase allowed me to iterate rapidly and refine ideas before progressing to higher fidelity designs.
@@ -136,7 +137,7 @@ At this stage, I polished up the screens that would be used in user testing and 
 1. How effortless is it to **complete** tasks pertaining to each of the 3 user types?
 2. How well does our assumed user flow **align** with our users' approach?
 
->Because I worked on the designs and user flows from the perspective of a food secure person(surplus sharer), I will be highlighting the information pertaining to my individual contributions from here on out.
+>Because I worked on the designs and user flows from the perspective of a food secure person (surplus sharer), I will be highlighting the information pertaining to my individual contributions from here on out.
 
 ## Home feed and individual post
 ![image](/assets/freebites/freebites-11.png)
