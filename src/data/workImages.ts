@@ -91,7 +91,7 @@ const workImages: WorkImageData[] = [
     category: "web",
   },
   {
-    url: "/assets/works/",
+    url: "/assets/works/freebites.png",
     id: "FreeBites",
     category: "uiux",
   },

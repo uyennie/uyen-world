@@ -116,10 +116,30 @@ By distilling the feedback gathered from the interviews, I pinpointed the key fu
 `Phase Three`
 # Nourishing the FreeBites design
 
+## A new, fun and fresh brand
+In the process of establishing the brand guidelines for Freebites, I made a deliberate decision to diverge from the Monash blue colour. This choice was driven by a vision for the app to evolve into a **community-focused platform**, rather than exclusively targeting Monash students. While I aimed to maintain a **connection** to Monash University, I sought to create a **distinct identity** for Freebites. As a nod to Monash, I incorporated subtle references in the logomark, where the **bite icon** symbolises taking a bite, echoing the name "Freebites," while cleverly forming the letter "M." This approach allowed the brand to strike a balance between honouring Monash and establishing Freebites as a unique platform.
+![image](/assets/freebites/freebites-9.png)
+
+## Establishing a design system
+
 ## Wireframing concepts
 I created low-fidelity concepts/ wireframes to explore a wide range of design ideas and solutions. Through this exploration, I visualided various design possibilities and identified the most efficient user flows. This phase allowed me to iterate rapidly and refine ideas before progressing to higher fidelity designs.
 
 ![image](/assets/freebites/freebites-7.png)
 ![image](/assets/freebites/freebites-8.png)
+
+`Phase Four`
+# Iteration One: UI Design
+At this stage, I polished up the screens that would be used in user testing and established the main user testing goals.
+
+## Questions to answer
+1. How effortless is it to **complete** tasks pertaining to each of the 3 user types?
+2. How well does our assumed user flow **align** with our users' approach?
+
+>Because I worked on the designs and user flows from the perspective of a food secure person(surplus sharer), I will be highlighting the information pertaining to my individual contributions from here on out.
+
+## Home feed and individual post
+![image](/assets/freebites/freebites-11.png)
+
 
 # Case study to be continued...
