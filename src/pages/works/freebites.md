@@ -142,5 +142,8 @@ At this stage, I polished up the screens that would be used in user testing and 
 ## Home feed and individual post
 ![image](/assets/freebites/freebites-11.png)
 
+## Creating a new post / food listing
+![image](/assets/freebites/freebites-12.png)
+
 
 # Case study to be continued...
