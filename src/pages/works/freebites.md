@@ -129,6 +129,10 @@ I created low-fidelity concepts/ wireframes to explore a wide range of design id
 ![image](/assets/freebites/freebites-7.png)
 ![image](/assets/freebites/freebites-8.png)
 
+<hr style="
+    margin-top: 50px;
+    margin-bottom: 45px;">
+
 `Phase Four`
 # Iteration One: UI Design
 At this stage, I polished up the screens that would be used in user testing and established the main user testing goals.
@@ -139,11 +143,28 @@ At this stage, I polished up the screens that would be used in user testing and 
 
 >Because I worked on the designs and user flows from the perspective of a food secure person (surplus sharer), I will be highlighting the information pertaining to my individual contributions from here on out.
 
-## Home feed and individual post
+## Home feed and individual posts
 ![image](/assets/freebites/freebites-11.png)
 
 ## Creating a new post / food listing
 ![image](/assets/freebites/freebites-12.png)
+
+## Receiving notifiations
+![image](/assets/freebites/freebites-13.png)
+
+<hr style="
+    margin-top: 50px;
+    margin-bottom: 45px;">
+
+`Phase Five`
+# Iteration Two: Enhancing the UI
+
+## User Testing Refinements
+
+Building upon the feedback received from the same users interviewed earlier in the process, I iterated on the UI design to address any pain points or usability issues identified during the first iteration. This iterative approach allowed me to fine-tune the interface based on real user experiences and preferences, ultimately enhancing the overall usability of the app.
+
+
+
 
 
 # Case study to be continued...
