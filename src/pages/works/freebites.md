@@ -13,6 +13,8 @@ tags: ["uiux"]
 `ui/ux`
 `case study`
 
+![image](/assets/freebites/freebites-main.png)
+
 # How can we enhance free food sharing and integrate it into the vibrant campus culture at Monash University? 
 
 ## Overview
@@ -162,6 +164,9 @@ At this stage, I polished up the screens that would be used in user testing and 
 ## User Testing Refinements
 
 Building upon the feedback received from the same users interviewed earlier in the process, I iterated on the UI design to address any pain points or usability issues identified during the first iteration. This iterative approach allowed me to fine-tune the interface based on real user experiences and preferences, ultimately enhancing the overall usability of the app.
+
+## Home feed
+![image](/assets/freebites/freebites-14.png)
 
 
 
