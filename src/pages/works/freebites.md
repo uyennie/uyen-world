@@ -154,12 +154,12 @@ Following the initial design iteration, I utilised **feedback** gathered from th
 ## Viewing a post
 ![image](/assets/freebites/freebites-12.png)
 
-<!-- ## Creating a new post / food listing
+## Creating a new post / food listing
 ![image](/assets/freebites/freebites-13.png)
 
 
 ## Receiving notifiations
-![image](/assets/freebites/freebites-14.png) -->
+![image](/assets/freebites/freebites-14.png)
 
 
 <!-- <hr style="
