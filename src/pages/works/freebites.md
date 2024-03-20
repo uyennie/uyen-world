@@ -148,22 +148,27 @@ Before starting the UI, I came up with questions that I wanted to keep in mind w
 ## User Testing Refinements
 Following the initial design iteration, I utilised **feedback** gathered from the same user cohort involved in earlier interviews to refine the UI. This iterative process aimed to resolve any identified **pain points** or **usability concerns**. By incorporating real user experiences and preferences, I refined the interface to enhance the overall usability and effectiveness of the app. Below are comments from myself and users and how I took their feedback to improve on my initial designs. 
 
-## Home feed and individual posts
+## Home feed 
 ![image](/assets/freebites/freebites-11.png)
 
+## Viewing a post
+![image](/assets/freebites/freebites-12.png)
+
 <!-- ## Creating a new post / food listing
+![image](/assets/freebites/freebites-13.png)
 
 
 ## Receiving notifiations
+![image](/assets/freebites/freebites-14.png) -->
 
 
-<hr style="
+<!-- <hr style="
     margin-top: 50px;
     margin-bottom: 45px;">
 
 `Phase Five`
-# Final Designs
- -->
+# Final Designs -->
+
 
 
 
