@@ -136,8 +136,8 @@ I created low-fidelity concepts/ wireframes to explore a wide range of design id
     margin-bottom: 45px;">
 
 `Phase Four`
-# Iteration One: UI Design
-At this stage, I polished up the screens that would be used in user testing and established the main user testing goals.
+# The iterative UI design process
+Before starting the UI, I came up with questions that I wanted to keep in mind whilst designing for the users.
 
 ## Questions to answer
 1. How effortless is it to **complete** tasks pertaining to each of the 3 user types?
@@ -145,28 +145,27 @@ At this stage, I polished up the screens that would be used in user testing and 
 
 >Because I worked on the designs and user flows from the perspective of a food secure person (surplus sharer), I will be highlighting the information pertaining to my individual contributions from here on out.
 
+## User Testing Refinements
+Following the initial design iteration, I utilised **feedback** gathered from the same user cohort involved in earlier interviews to refine the UI. This iterative process aimed to resolve any identified **pain points** or **usability concerns**. By incorporating real user experiences and preferences, I refined the interface to enhance the overall usability and effectiveness of the app. Below are comments from myself and users and how I took their feedback to improve on my initial designs. 
+
 ## Home feed and individual posts
 ![image](/assets/freebites/freebites-11.png)
 
-## Creating a new post / food listing
-![image](/assets/freebites/freebites-12.png)
+<!-- ## Creating a new post / food listing
+
 
 ## Receiving notifiations
-![image](/assets/freebites/freebites-13.png)
+
 
 <hr style="
     margin-top: 50px;
     margin-bottom: 45px;">
 
 `Phase Five`
-# Iteration Two: Enhancing the UI
+# Final Designs
+ -->
 
-## User Testing Refinements
 
-Building upon the feedback received from the same users interviewed earlier in the process, I iterated on the UI design to address any pain points or usability issues identified during the first iteration. This iterative approach allowed me to fine-tune the interface based on real user experiences and preferences, ultimately enhancing the overall usability of the app.
-
-## Home feed
-![image](/assets/freebites/freebites-14.png)
 
 
 
