@@ -10,6 +10,16 @@ interface WorkListItem {
 }
 
 export const works: WorkListItem[] = [
+    {
+    title: "FreeBites",
+    description: "community app linking uni students to free food",
+    blurb: "campus-based food sharing platform",
+    year: "2023",
+    category: "uiux",
+    url: "/works/freebites",
+    new: false,
+    wip: true,
+  },
   {
     title: "Amply",
     description: "chrome extension empowering ethical online shopping",
@@ -21,6 +31,16 @@ export const works: WorkListItem[] = [
     wip: true,
   },
   {
+    title: "Slice",
+    description: "figma plugin that guides through the HCD process",
+    blurb: "figma plugin for case studies",
+    year: "2023",
+    category: "uiux",
+    url: "/works/slice",
+    new: true,
+    wip: false,
+  },
+  {
     title: "Curology",
     description: "redesign of Curology website",
     blurb: "website redesign",
@@ -29,16 +49,6 @@ export const works: WorkListItem[] = [
     url: "/works/curology",
     new: false,
     wip: false,
-  },
-  {
-    title: "FreeBites",
-    description: "community app linking uni students to free food",
-    blurb: "campus-based food sharing platform",
-    year: "2023",
-    category: "uiux",
-    url: "/works/freebites",
-    new: false,
-    wip: true,
   },
   {
     title: "Slice",
