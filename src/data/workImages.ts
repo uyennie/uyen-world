@@ -55,11 +55,11 @@ const workImages: WorkImageData[] = [
     id: "Incubator",
     category: "print branding",
   },
-  {
-    url: "/assets/works/terminal-1.png",
-    id: "Terminal",
-    category: "misc branding",
-  },
+  // {
+  //   url: "/assets/works/terminal-1.png",
+  //   id: "Terminal",
+  //   category: "misc branding",
+  // },
   {
     url: "/assets/works/disorient-1.jpg",
     id: "DiSoRiEnT",
