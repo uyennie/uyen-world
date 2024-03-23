@@ -200,9 +200,75 @@ To make social interaction more **personalised** and **meaningful**, I highlight
 Film Club activity is seamlessly integrated into the Home tab to encourage users to **directly interact** with the community and **discover** new films.
 When users have already joined a Film Club event, users can easily and **directly jump** into the relevant event.
 
+<div class="portrait">
+    <img src="/assets/letterboxd/letterboxd-g1-3.gif" class="img-small">
+    <img src="/assets/letterboxd/letterboxd-g1-4.gif" class="img-small">
+</div>
+
+## 2. Multiple film discovery options
+There are multiple Film Club schedule options available to users, with **two** going on at any given time. Thus, there are enough choices to cover a **variety of user interests**, but not so many choices that it will be overwhelming.
+
+<div class="portrait">
+    <img src="/assets/letterboxd/letterboxd-g1-5.gif" class="img-small">
+    <img src="/assets/letterboxd/letterboxd-g1-6.gif" class="img-small">
+</div>
+
+## 3. Plan ahead and watch film
+A comprehensive **schedule view** of all upcoming Film Club events, scheduled out 2 months in advance. This incentivises users to **plan ahead** and **set aside time** to watch films. Collapsible accordion menus help users to quickly navigate between event options. 
+
+<div class="portrait">
+    <img src="/assets/letterboxd/letterboxd-g1-7.gif" class="img-small">
+    <img src="/assets/letterboxd/letterboxd-g1-8.gif" class="img-small">
+</div>
+
+## 4. Casually watch movies with friends
+Users can also **invite friends** to watch specific films with them. Users can see which friends are already watching. Seeing **familiar faces** will make Film Club seem **less intimidating** and encourage more users to join in on the fun.
+
+<div class="portrait">
+    <img src="/assets/letterboxd/letterboxd-g1-9.gif" class="img-small">
+    <img src="/assets/letterboxd/letterboxd-g1-10.gif" class="img-small">
+</div>
+
+## 5. Direct social interaction
+Robust discussion features help users **dynamically** talk to one another, more **often**. Now, users can finally see all “Likes” and “Reply” interactions at a glance, acting as activity signposts to help them casually **participate in conversations**.
+
+Friends’ activity is floated to the top so users can quickly interact with them and meaningfully connect with them.
+
+<div class="portrait">
+    <img src="/assets/letterboxd/letterboxd-g1-11.gif" class="img-small">
+    <img src="/assets/letterboxd/letterboxd-g1-12.gif" class="img-small">
+</div>
+
+## 6. Track Film Club activity in personal record
+Film Club reviews are a part of the **wider review ecosystem**. An automatic **Film Club tag** is added to the usual review flow, but helps **auto-populate reviews** in the Film Club event pages. This way, users can keep track of Film Club watches, just like any other film.
+
+> You can also check out the full prototype here: [Film Club](http://bit.ly/letterboxd-film-club-prototype) 
+
 <hr style="
     margin-top: 50px;
     margin-bottom: 45px;">
 
 `Phase Six`
-# Continuing the iterative design process
+# Final thoughts: What comes next?
+
+This was definitely my most challenging, complex project yet. However, as a frequent Letterboxd user myself, it was gratifying to work so closely with one of my favorite apps. 
+
+If I had more time, I would:
+- Conduct another round of **user testing**. Does the "Film Club" title make more sense to users now?
+- Explore **tiered** Film Club features — if **paid members** could create personalised film schedules, could this incentivise users to **convert to paid plans**?
+- Consider the **post-event flow**. What happens if a user joins an event and forgets to add a review? Or participate? How might we remind users without being intrusive?
+- Improve Letterboxd's **accessibility**. For example, their desktop UI has green buttons with white text, which doesn’t pass WCAG accessibility standards. I’d like to explore green buttons with black text (inspired by Spotify).
+
+## What I learned 
+
+### 🔎 Adapting to flawed design systems
+
+Letterboxd’s UI could use some improvement; however, for the sake of time, I reused some subpar components (i.e. the review’s modal-within-a-modal). For the most part, I avoided arbitrarily following not-great patterns by auditing Letterboxd’s UI to ensure Film Club could stand on its own. While it would’ve been easier to choose an app with less existing usability issues, this project made me a more discernible designer — a blessing in disguise. 
+
+### 🔖 Feature naming is an art
+
+Film Club is a feature unique to Letterboxd — there wasn't an exact replica on competitor apps. Thus, using an existing, standard name (i.e. “Groups”) would have only misled users. The solution was to make the name distinctive — like Atlassian’s team said, “the more distinctive a name, the less it relies on context to prop it up.”
+
+### 🤝 The strength of communities
+
+I was awed by the creative lengths that users took to interact with each other. What other platform's usability issues become embedded into the social culture? (See: the faux-friend tags.) Despite any UX pitfalls, the community’s persisting enthusiasm illustrated the joy that Letterboxd brought the film community.
