@@ -21,8 +21,8 @@ const workImages: WorkImageData[] = [
     category: "uiux",
   },
   {
-    url: "/assets/works/spotify-1.jpg",
-    id: "Spotify Stories",
+    url: "/assets/works/letterboxd.jpg",
+    id: "Film Club",
     category: "uiux",
   },
   {
