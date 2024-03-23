@@ -136,154 +136,73 @@ I created a **sitemap** to show where Film Club could integrate into Letterboxd�
 ![image](/assets/letterboxd/letterboxd-7.png)
 #### Pinpointing entry points in the mobile sitemap
 
-
 <hr style="
     margin-top: 50px;
     margin-bottom: 45px;">
 
 `Phase Three`
-# Exploring solutions that provide more social engagement
+# Exploring designs that provide more social engagement
 
-## Wireframing
-### Home Screen
-Users can scroll through their friends’ icons to find what they are currently listening to
-![image](/assets/spotify/spotify-10.jpeg)
+## Wireframing the user flows
 
-#### Changing the Current Song Pop-Up
-Adding the “Friend’s Profile” component to the song pop-up
-![image](/assets/spotify/spotify-11.jpeg)
+When deciding on flows to design, I created **user stories** to contextualise user goals when accessing Film Club, sectioning key flows into three scenarios:
+1. Before joining an event
+2. After joining, before the event goes live
+3. After the event goes live
+Then, I created **low-fidelity wireflows** to account for conditional pages. Throughout the flows, I wanted to ensure that Letterboxd would help them access the events that they had opted into, without **being intrusive**.
+‍
+The Home Page was Film Club’s primary entry point. In its **default** state, it would provide an overview of upcoming events. If they had joined an event, the Home Page would show their personal upcoming events. This would make the events **accessible** and ensure users wouldn’t forget to participate, even if the event was scheduled weeks later.
 
-## Mid-fi mockups
-First, I started by dissecting the existing Desktop Friend Activity Profile into its essential parts.
+![image](/assets/letterboxd/letterboxd-8.jpg)
 
-![image](/assets/spotify/spotify-12.jpeg)
+## Recreating Letterboxd’s UI Kit to create a visually consistent experience
 
-The current Desktop Friend Activity Profile consists of: the friend’s name, song title, artist, how the friend is listening to the music (either through album or playlist) and timestamp. Spotify Desktop emphasises the interactive experience with the Friend Activity profile, for instance, when you hover over Kevin’s icon, you have the option to play the song he just listened. With the personas’ needs for social engagement in mind, I believe it is crucial to retain the original five components and the interactive aspect in the translated Mobile version.
+I audited Letterboxd's Design System to understand what native components I could reuse. I discovered some inconsistencies and usability issues – for example, Letterboxd’s mobile and desktop UI don’t follow a unified design language. While the desktop uses **green CTA buttons**, the mobile UI only uses **grey buttons**.
 
-<div class="portrait">
-    <img src="/assets/spotify/spotify-13.jpeg" class="img-portrait">
-</div>
+When recreating Letterboxd’s mobile UI kit, I created **new components** only when necessary, ensuring that they aligned with Letterboxd’s brand. Button states were vital to my interactions, so I designed **mobile-optimised green CTA buttons**, based on the desktop UI.
 
-I lined the individual Friend Activity profiles in a row and implemented it at the top of the current Home screen, following the same format as Spotify Desktop.
+![image](/assets/letterboxd/letterboxd-9.png)
 
-<hr style="
-    margin-top: 50px;
-    margin-bottom: 45px;">
-
-## User Feedback
-
-### Complex Visual
-- Users mentioned that the design is **cramped**. The social feed is complicated and seems out of place. I would want to introduce a simpler interaction design to reduce any friction in viewing friends’ activities.
-
-### Size
-- The social feed occupied a large chunk of screen space. When I asked if the users care more about the friend’s name, song title, artist, album, playlist, or timestamp, they were adamant that the album and the playlist labels were the least relevant.
-- Users requested a quick way to **click** into their friends’ profiles and the songs they are currently listening to.
-
-### Content
-- One user suggested an accessibility feature to **increase the font size** of the song and to **remove the listening source**.
-- Another user found the icon **unnecessarily large**, occupying a serious amount of space.
-- Users mentioned that the **inclusion of a timestamp** would make the activity feed more interactive, however, it could further complicate the spacing.
-
-It is evident that my initial assumptions of translating all the components from the Desktop Friend Activity Profile do not work. The mid-fi mockup revealed a confusing interaction design, where users cannot identify the prioritised feature.
+Then, I referenced my wireflows and UI kit to design a high-fidelity mobile prototype.
 
 <hr style="
     margin-top: 50px;
     margin-bottom: 45px;">
 
 `Phase Four`
-# Time to shift gears
+# Testing the new Film Club feature with Letterboxd users
 
-I began to pivot my design process by searching for the **best social feeds**. It is important to figure out what features I should show and chose to omit. Looking into popular social media platforms such as Facebook, Snapchat, and Instagram, I realized that minimal design is key to a successful activity feed. I could potentially save space by moving the original content of the Desktop Activity Profile into a different screen, i.e. including the content into the song detail popup.
+I conducted moderated usability tests to see whether users could **successfully explore and understand** Film Club, **accomplish** their tasks, and if they found it **valuable** or **desirable**.
 
-I find Instagram’s story feed the most simple yet engaging among its competing platforms.
+![image](/assets/letterboxd/letterboxd-10.png)
 
-![image](/assets/spotify/spotify-14.jpeg)
+I renamed Watch Parties to **Film Club** to better reflect the feature's asynchronous nature. I also prioritised revisions that clarified the feature’s concept, such as designing **collapsible** schedule layouts and adding **contextual**, **logistical information** to schedule cards.
 
-I saw an opportunity in emulating a similar story feed like Instagram, which shows the two fundamental information — user icon and name. By limiting the details shown on the Home screen, the activity feed no longer occupies a large amount of space and the core information is prioritised.
+To make social interaction more **personalised** and **meaningful**, I highlighted **friend participation** to help users interact with friends and build their existing relationships.
 
-Instagram uses **colour outlines** to differentiate between personal story and friends’ story. I sought to use the outlines as **timestamps** in the Spotify social feed, where the green color indicates current listening activity and the grey color indicates past listening activity.
+![image](/assets/letterboxd/letterboxd-11.png)
 
-![image](/assets/spotify/spotify-15.jpeg)
-
-If a user decides to go into a private session, his or her profile icon will indicate the status by including a lock.
-
-![image](/assets/spotify/spotify-16.jpeg)
-
-In this iteration, only the profile icon and name are present. If the user is interested in watching all friend activities, the feed would just play continuously.
-
-![image](/assets/spotify/spotify-17.jpeg)
-
-Placing the simplified profiles into a row resolves the cramped screen from the mid-fi mockup, offering users a more seamless transition between different listening activities.
-
-<div class="portrait">
-    <img src="/assets/spotify/spotify-18.jpeg" class="img-portrait">
-</div>
-
-The translated row component takes up less space and reveals the most important information (icon, name, and listening activity status) with a minimal design.
+#### High-level revisions from user testing
 
 <hr style="
     margin-top: 50px;
     margin-bottom: 45px;">
 
 `Phase Five`
-# Continuing the iterative design process
+# The final solution: Introducing Letterboxd's Film Club
 
-Once I finalised the Friend Activity row, I wanted to focus on the popup screen. When a user taps on a profile icon, a screen would show in a similar motion as the current Spotify song detail popup. The popup is an efficient method to organise necessary information of the song, in addition to those that cannot fit in the home screen display. I based my redesign on the current song detail pop up from Spotify Mobile.
-
-## How is Spotify currently presenting a song you're currently listening to?
-The current song detail modal includes navigation for both social and personal functions. I want to enhance the detail screen by incorporating the “Spotify Story” aspect, where users can view their friends’ listening choices. Since our users are exposed to the original Spotify Mobile screen, following the established layout would be the most fitting.
-
-![image](/assets/spotify/spotify-19.jpeg)
-
-## Redesigned Story Screen — First Iteration
-![image](/assets/spotify/spotify-20.jpeg)
-I decided to design multiple versions of each interface to indicate the active, inactive, and private listening status.
-
-Based on the task flow and current Spotify UI, the detail screen retains in-depth options for the particular song. Here, I asked the users. Most of them prefer a simpler interface, without the complex options. Some users mentioned that the inclusion of listening history can make the app more engaging
-
-> “I think the song details and functions are quite distracting. I just want to know what my friend is listening to and then decide whether I am interested by the music choice.”
-
-> “A play function would be nice so I can immediately listen to the song.”
-
-> “It would be interesting if we can see past listening activities, instead of only the most recent song choice.”
-
-I took the above feedback and iterated on the screen, following Spotify’s design system.
-
-## Redesigned Story Screen — Second and Final Iteration
-![image](/assets/spotify/spotify-21.jpeg)
-Instead of cramping the screen with listening history, I decided to **minimise** the design and **hide** further functions within the rewind icon on the top right.
-
-Here, I went back to our persona. Our target user group is those who look for a social experience, by which song recommendations should be accessed within a few clicks. I kept the **three most popular functions** (add to playlist, add to queue, and share) so users can make **intuitive navigating choices**.
-
-The story screen also becomes more accessible with the enlarged album cover, like option, and the play button.
-
-## Past Listening Activity Popup
-![image](/assets/spotify/spotify-22.jpeg)
-On-tap of the **rewind icon**, this screen would show as a detailed popup. The list consists of **past listening activity** with **infinite scroll**. If the user is interested in a particular song, he or she can click on the **three-dot icon** for further functions.
-
-## Refreshing Friend Activity
 <div class="portrait">
-    <img src="/assets/spotify/spotify-23.jpeg" class="img-portrait">
+    <img src="/assets/letterboxd/letterboxd-g1-1.gif" class="img-small">
+    <img src="/assets/letterboxd/letterboxd-g1-2.gif" class="img-small">
 </div>
-Emulating a similar design as Instagram, I wanted to create a refresh interaction, which reloads the story feed data. The user can update their current friend activity anytime they want with a simple pull on the home screen.
+
+## 1. Accessible, relevant discovery from the Home tab
+Film Club activity is seamlessly integrated into the Home tab to encourage users to **directly interact** with the community and **discover** new films.
+When users have already joined a Film Club event, users can easily and **directly jump** into the relevant event.
 
 <hr style="
     margin-top: 50px;
     margin-bottom: 45px;">
 
 `Phase Six`
-# My retro🎵-spective
-I started this case study after finding a common blindspot in listening trends among my peers. People have a tendency to stick with cyclical listening habits, constantly rewinding playlists and songs based on personal preference. While most get bored of the loop, searching for new music could be a tedious task. Considering the larger user base on Spotify iOS, translating the Friend Activity feed could potentially make the browsing process fun and engaging. The core idea is to create networks between friends, sharing their playlist circles and ultimately building joint circles together.
-
-I would want to track metrics such as story clicks, direct links to friends’ past listening activities, and the number of queued songs referred from the story feed. 
-
-## Key learnings
-
-Other ways to measure success include: 
-> **More usability testing** – At which points are the users exiting the story feed?
-
-> **More user feedback** – What are users’ behaviors and opinions?
-
-> **Traffic analysis** – How are the users interacting with the new story feature?
-
-> **A/B testing** – Is this story feature really effective in increasing users’ likelihood to listen to new music?
+# Continuing the iterative design process
