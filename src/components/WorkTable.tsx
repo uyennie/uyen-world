@@ -88,7 +88,7 @@ const WorkTable = () => {
                       position: "absolute",
                       cursor: "move",
                       width: "auto",
-                      maxHeight: "300px",
+                      maxHeight: "330px",
                     }}
                     draggable={false}
                     src={imageData.url}

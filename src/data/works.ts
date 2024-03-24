@@ -12,7 +12,7 @@ interface WorkListItem {
 export const works: WorkListItem[] = [
     {
     title: "FreeBites",
-    description: "community app linking uni students to free food",
+    description: "app linking uni students to surplus food",
     blurb: "campus-based food sharing platform",
     year: "2023",
     category: "uiux",
@@ -22,7 +22,7 @@ export const works: WorkListItem[] = [
   },
   {
     title: "Amply",
-    description: "chrome extension empowering ethical online shopping",
+    description: "ethical online shopping Chrome extension",
     blurb: "ethical online shopping tool",
     year: "2024–",
     category: "uiux",
@@ -42,7 +42,7 @@ export const works: WorkListItem[] = [
   },
   {
     title: "Slice",
-    description: "figma plugin that guides through the HCD process",
+    description: "figma plugin guiding HCD process",
     blurb: "figma plugin for case studies",
     year: "2023",
     category: "uiux",
