@@ -190,14 +190,15 @@ Users can create a post and customise it to make for more accurate search result
 ## Editing an existing post
 Users can update the status of their food surplus by editing a post. Once it's been edited, food seekers that have saved the post will be notified of its availability status change.
 <div class="portrait">
-    <img src="/assets/freebites/fb-1.gif" class="img-small">
+    <img src="/assets/freebites/fb-4.gif" class="img-small">
 </div>
 
 ## Send a private message
 Users can quickly message other users about food acquisition details or ask any questions.
 <div class="portrait">
-    <img src="/assets/freebites/fb-1.gif" class="img-small">
+    <img src="/assets/freebites/fb-5.gif" class="img-small">
 </div>
+
 
 <hr style="
     margin-top: 50px;
@@ -206,15 +207,12 @@ Users can quickly message other users about food acquisition details or ask any 
 `Phase Six`
 # My learnings from a passion project
 
-## There truly are no dumb questions
-Naturally, I'm hesitant to ask questions, out of fear for it being a dumb one. However, throughout this process I've realized that that poses a huge blocker that really had no business being there in the first place. In the beginning of our design process, I felt like we didn't have enough information on who really uses the FreeBites app. Although we had a survey to reference, I didn't want to dive right into idea generation without a complete understanding of our users. I wanted to ask more questions to get at the heart of our problem space and use that as our north star. By asking questions during user interviews pertaining to how a user currently uses the app and what their goals are, it revealed that there were 3 different user types (something that wasn't obvious from the survey responses) and this key finding guided our entire problem-solving process. Because we wanted to create a holistic experience, it was so intergral to understand each user type and their difficulties. I'm realizing as I take on more and more projects, expecting myself to know everything is an unrealistic feat and asking questions can really only help me in the process.
+## Flows, flows, flows!
+![image](/assets/freebites/freebites-15.png)
+The above image is the final **user flows** from the Figma file. As the complexity of my prototypes increased, I realised the significance of maintaining a **well-organised file structure** (as obvious as it may be) to make the flows much easier to understand. By doing things such as grouping related elements, using consistent naming conventions, and utilising frames and pages effectively, I've enhanced the efficiency of my workflows compared to my last projects.
 
-Asking questions helped me deliver a product that considered all users and their unique set of needs and ultimately gave the end-user complete control over how they use the app to accomplish their goals. I am incredibly excited for these designs to be developed and it's rewarding to know that I've contributed to FreeBites' mission of alleviating food insecurity and cultivating a safe and giving community.
+## No such thing as silly questions
+Naturally, I'm hesitant to ask questions, fearing they might be seen as silly. However, I've come to realise that this mindset only holds me back. At the start of my design journey, I felt we lacked sufficient insight into FreeBites' user base. Despite having a survey as a reference, I refrained from diving into idea generation without a thorough understanding of our users. Through probing questions during user interviews, I uncovered three distinct user types, a crucial insight guiding our problem-solving process. Understanding each user type and their challenges was pivotal in crafting a comprehensive experience. 
 
+As I take on more projects, I've come to accept that expecting **omniscience** is **unrealistic**. Asking questions proved invaluable in delivering a product tailored to diverse user needs, empowering users to navigate the app according to their goals. I eagerly anticipate the development of these designs one day!
 
-
-
-
-
-
-# Case study to be continued...
