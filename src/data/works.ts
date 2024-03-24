@@ -17,7 +17,7 @@ export const works: WorkListItem[] = [
     year: "2023",
     category: "uiux",
     url: "/works/freebites",
-    new: false,
+    new: true,
     wip: true,
   },
   {
