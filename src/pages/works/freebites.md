@@ -162,14 +162,19 @@ Following the initial design iteration, I utilised **feedback** gathered from th
 ![image](/assets/freebites/freebites-14.png)
 
 
-<!-- <hr style="
+<hr style="
     margin-top: 50px;
     margin-bottom: 45px;">
 
 `Phase Five`
-# Final Designs -->
+# Final Designs
 
+## Exploring posts on the Home feed
+After opening the app, new users a presented with a pop-up identifying the main actions they can take on the app. Upon closure, they can view the home feed with listings made nearby or search and filter for a more specific food opportunity.
 
+<div class="portrait">
+    <img src="/assets/freebites/fb-1.gif" class="img-small">
+</div>
 
 
 
