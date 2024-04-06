@@ -38,7 +38,7 @@ const workImages: WorkImageData[] = [
   {
     url: "/assets/works/future-record-2.jpg",
     id: "Future Record",
-    category: "web uiux",
+    category: "web uiux 3d",
   },
   // {
   //   url: "/assets/works/deus-ex-1.jpg",
@@ -53,7 +53,7 @@ const workImages: WorkImageData[] = [
   {
     url: "/assets/works/incubator-5.png",
     id: "Incubator",
-    category: "print branding",
+    category: "print branding 3d",
   },
   // {
   //   url: "/assets/works/terminal-1.png",

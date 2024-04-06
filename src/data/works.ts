@@ -155,7 +155,7 @@ export const works: WorkListItem[] = [
     description: "AR poster",
     blurb: "AR poster",
     year: "2021",
-    category: "branding misc 3d",
+    category: "misc 3d",
     url: "/works/disorient",
     new: false,
     wip: false,
