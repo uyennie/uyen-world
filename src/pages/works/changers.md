@@ -46,4 +46,4 @@ My role in this project covers:
     margin-bottom: 45px;">
 
 `Phase One`
-# Exploring User Needs: Unveiling Letterboxd's Community Dynamics
+# Identifying Challenges: Addressing Donations in Grassroots Campaigns
