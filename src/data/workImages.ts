@@ -5,11 +5,11 @@ interface WorkImageData {
 }
 
 const workImages: WorkImageData[] = [
-  {
-    url: "/assets/works/aware.png",
-    id: "Amply",
-    category: "uiux",
-  },
+  // {
+  //   url: "/assets/works/aware.png",
+  //   id: "Amply",
+  //   category: "uiux",
+  // },
   {
     url: "/assets/works/digital-self-4.jpg",
     id: "d.selfhood",
@@ -33,12 +33,12 @@ const workImages: WorkImageData[] = [
   {
     url: "/assets/works/content-4.png",
     id: "CONTENT",
-    category: "web uiux",
+    category: "web",
   },
   {
     url: "/assets/works/future-record-2.jpg",
     id: "Future Record",
-    category: "web uiux 3d",
+    category: "web 3d",
   },
   // {
   //   url: "/assets/works/deus-ex-1.jpg",
@@ -63,7 +63,7 @@ const workImages: WorkImageData[] = [
   {
     url: "/assets/works/disorient-1.jpg",
     id: "DiSoRiEnT",
-    category: "misc",
+    category: "misc 3d",
   },
   {
     url: "/assets/works/smiley-cakes2.png",
@@ -83,7 +83,7 @@ const workImages: WorkImageData[] = [
   {
     url: "/assets/works/uyen-world.png",
     id: "uyen.world",
-    category: "uiux web",
+    category: "web",
   },
   {
     url: "/assets/works/web-1.jpg",

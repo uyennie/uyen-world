@@ -17,6 +17,8 @@ tags: ["uiux"]
 
 # How can we enhance Letterboxd's community features to facilitate meaningful social interaction within the platform?
 
+## Overview
+
 In 2020, Letterboxd’s explosive growth brought in an influx of younger, casual film fans.
 
 Before Letterboxd, there wasn’t a social film discovery platform focused on audiences. While competitors focused on critic reviews (i.e. Rotten Tomatoes), Letterboxd gave **everyday audiences** a platform to review films and curate movie lists. 
