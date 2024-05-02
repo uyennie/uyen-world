@@ -95,6 +95,11 @@ const workImages: WorkImageData[] = [
     id: "FreeBites",
     category: "uiux",
   },
+  {
+    url: "/assets/works/xy.png",
+    id: "XY",
+    category: "print branding",
+  },
 ];
 
 export default workImages;

@@ -10,15 +10,25 @@ interface WorkListItem {
 }
 
 export const works: WorkListItem[] = [
+  // {
+  //   title: "Changers",
+  //   description: "app for micro-donations to mutual aids",
+  //   blurb: "micro-donation app",
+  //   year: "2024",
+  //   category: "uiux",
+  //   url: "/works/changers",
+  //   new: false,
+  //   wip: true,
+  // },
   {
-    title: "Changers",
-    description: "app for micro-donations to mutual aids",
-    blurb: "micro-donation app",
+    title: "XY",
+    description: "branding for men's skincare",
+    blurb: "skincare branding",
     year: "2024",
-    category: "uiux",
-    url: "/works/changers",
+    category: "branding print",
+    url: "/works/xy",
     new: false,
-    wip: true,
+    wip: false,
   },
     {
     title: "FreeBites",

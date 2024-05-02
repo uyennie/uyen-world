@@ -46,4 +46,25 @@ My role in this project covers:
     margin-bottom: 45px;">
 
 `Phase One`
-# Identifying Challenges: Addressing Donations in Grassroots Campaigns
+# Identifying Challenges: Understanding Good Intentions
+
+## The current problem with the donation landscape
+A survey of the current charitable donation landscape revealed there was considerable room for innovation. I found that large charitable organisation platforms fall into three main categories:
+
+
+## So what about micro-donations?
+Shifting focus to the micro-donation landscape in Australia, I noticed a similar trend with limited innovation and specialisation. While a few micro-donation apps are available, none specifically target Mutual Aid organisations, creating a gap for supporting smaller, grassroots causes. The existing platforms offer basic functionalities but come with notable drawbacks.
+
+![image](/assets/changers/changers-1.png)
+
+For instance, **"The Difference"** allows for round-up donations and one-time contributions but restricts user control based on geographic preferences and provides only a **small selection** of partner charities. Meanwhile, **"Change 4 Change"** focuses on larger organisations, neglecting smaller, local causes, and displays **ads** on the platform, which detracts from the user experience.
+
+This analysis indicates the need for a new platform that prioritises micro-donations to Mutual Aid organisations, offering flexibility, transparency, and a broader range of charitable options.
+
+
+
+
+
+
+
+
