@@ -199,6 +199,8 @@ Users can quickly message other users about food acquisition details or ask any 
     <img src="/assets/freebites/fb-5.gif" class="img-small">
 </div>
 
+## Prototype overview
+![image](/assets/freebites/freebites-16.png)
 
 <hr style="
     margin-top: 50px;
