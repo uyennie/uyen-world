@@ -207,10 +207,6 @@ Users can quickly message other users about food acquisition details or ask any 
 `Phase Six`
 # My learnings from a passion project
 
-## Flows, flows, flows!
-![image](/assets/freebites/freebites-15.png)
-The above image is the final **user flows** from the Figma file. As the complexity of my prototypes increased, I realised the significance of maintaining a **well-organised file structure** (as obvious as it may be) to make the flows much easier to understand. By doing things such as grouping related elements, using consistent naming conventions, and utilising frames and pages effectively, I've enhanced the efficiency of my workflows compared to my last projects.
-
 ## No such thing as silly questions
 Naturally, I'm hesitant to ask questions, fearing they might be seen as silly. However, I've come to realise that this mindset only holds me back. At the start of my design journey, I felt we lacked sufficient insight into FreeBites' user base. Despite having a survey as a reference, I refrained from diving into idea generation without a thorough understanding of our users. Through probing questions during user interviews, I uncovered three distinct user types, a crucial insight guiding our problem-solving process. Understanding each user type and their challenges was pivotal in crafting a comprehensive experience. 
 
